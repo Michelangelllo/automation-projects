@@ -71,12 +71,4 @@ Each repository includes:
 
 ---
 
-## Let’s connect
-
-📫 Email: (add)  
-💼 LinkedIn: (add)  
-🌐 Portfolio: (add)
-
----
-
 If you’re looking to remove operational friction and build systems that scale — I’d love to collaborate.
