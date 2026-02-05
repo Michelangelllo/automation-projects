@@ -68,7 +68,7 @@ Each repository includes:
 (Some examples)
 
 - Lead Enrichment Pipeline — turning raw websites into structured decision-maker data
-- - [Lead Enrichment Pipeline](https://github.com/ibrahim-oladimeji/lead-enrichment-pipeline)
+- [Lead Enrichment Pipeline](https://github.com/Michelangelllo/lead-enrichment-pipeline)
 - Outreach Personalization System — segmentation + tailored messaging at scale  
 - Ops Automation Framework — eliminating manual handoffs across teams  
 
