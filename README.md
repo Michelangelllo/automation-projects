@@ -1,4 +1,6 @@
-# Hi, I’m Ibrahim 👋🏽
+# Hi, I’m Ibrahim 👋🏽 
+I design how work should flow — then make it run automatically.
+
 
 I solve operational problems inside growing businesses by diagnosing friction across people, data, and processes — then designing systems that scale.
 
